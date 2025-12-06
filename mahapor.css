@@ -1,0 +1,43 @@
+*{
+    text-decoration: none;
+}
+p{
+    color:white;
+    font-size: xx-large;
+    font-weight: 900;
+    font-style:inherit;
+    margin-left:90vh;
+    margin-top:25vh;
+    
+    
+    text-shadow: 2px 2px 3px;
+
+}
+
+li{
+    list-style: none;
+    display: inline-block; 
+    margin: 0 10PX;
+}
+ul{
+    margin: 0;
+    margin-top: 0%;
+    padding: 3;
+   text-align:right;
+}
+a{
+    color:white;
+    font-size:larger;
+    font-weight: bold;
+    text-shadow: 1px 2px 3px;
+}
+img{
+    height:70vh;
+    width:35%;
+    border-radius: 50%;
+    box-shadow: 6px 7px 6px 6px white;
+    margin-left: 17vh;
+    position:absolute;
+    margin-top: -20%;
+
+}

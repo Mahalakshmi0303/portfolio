@@ -1,0 +1,27 @@
+
+body{
+background:black;
+
+}
+marquee{
+    background-color: grey;
+    border-radius: 20px;
+    text-shadow:5px 5px 5px rgb(43, 168, 226);
+    box-shadow:5px 5px 5px rgb(43, 168, 226);
+}
+.navbar{
+    height:70vh;
+    width:40%;    /*width:50%*/
+    background:black;
+    margin-top:2%;
+    border-radius:40px;
+    box-shadow:5px 5px 5px 5px rgb(43, 168, 226);
+    }
+#logo{
+      height:20vh;
+      width:30%;
+      margin-top:7%;
+      margin-right:9rem;
+      box-shadow:5px 5px 5px 5px rgb(43, 168, 226);
+    }
+    
